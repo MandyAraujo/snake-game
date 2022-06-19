@@ -21,8 +21,6 @@ The classic snake game.
 
 ## 📷 Demo
 
-Access the demo here:
-
 <br>
 <h1 align="center">
   <img src="./assets/snakegif.gif" width="960" height="540">

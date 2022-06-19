@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+   
+    background: #84b6f4;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    
+    font-family: 'VT323', monospace;
+    font-size: 2.1rem;
+    color: black;
+}
+
+
+
+.container{
+    margin-left: 37.5rem;
+    margin-top: 7rem;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.tela{
+    margin-top: 9.5rem;
+    margin-left: 31.25rem;
+    border: 1rem solid;
+    border-color: black;
+}
+
+.alert{
+    display: flex;
+   
+
+    font-family: 'VT323', monospace;
+    font-size: 2.1rem;
+    color: black;
+    margin-top: 2rem;
+    margin-left: 41rem;
+  
+    animation: animate 1.5s infinite;
+}
+
+@keyframes animate{
+    0%{
+      opacity: 30;
+    }
+    50%{
+      opacity: 0.5;
+    }
+    100%{
+      opacity: 100;
+    }
+  }

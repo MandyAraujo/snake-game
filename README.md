@@ -25,7 +25,7 @@ Access the demo here:
 
 <br>
 <h1 align="center">
-  <img src="./assets/snakegif.gif" width="640" height="360">
+  <img src="./assets/snakegif.gif" width="960" height="540">
 </h1>
 
 
